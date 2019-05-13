@@ -1,6 +1,10 @@
 # portfolioWeb  </>
 portfolioWeb / reactJS
 
+
+github direct page => 
+https://gentacle.github.io/portfolioWeb/
+
 ---
 
 nicname : **gentacle**
