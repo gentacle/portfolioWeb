@@ -9,6 +9,6 @@ nicname : **gentacle**
 
 | lang | and | framework |
 |:---:|:---|:---|
-| **java** | jsp servlet | spring |
-| python3 | python | django |
-| javascript | **reactJS** | *nodeJS* |
+| **java** | **jsp servlet** | *spring* |
+| **python4** | | django |
+| **javascript** | **reactJS** | *nodeJS* |
