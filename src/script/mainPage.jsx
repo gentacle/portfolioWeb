@@ -17,7 +17,7 @@ class MainPage extends Component {
       <li>npm 날리고 재설하니까 된다. 뭐냐</li>
       </ul>
 
-      <button onClick={()=>(this.setState({value:this.state.value + 1}))}>{this.state.value}</button>
+      <button onClick={()=>(this.setState({value:this.state.value + '1'}))}>{this.state.value}</button>
       </div>
     )
   }
